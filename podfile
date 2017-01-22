@@ -1,0 +1,5 @@
+platform :ios, '10.1'
+
+target 'text' do
+  pod 'AFNetworking'
+end
